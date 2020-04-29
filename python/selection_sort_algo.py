@@ -17,7 +17,7 @@ def selection_sort(nums: List[int]):
 
 
 def alt_selection_sort(nums: List[int]):
-		#Iterate over array
+	#Iterate over array
 	for i in range(len(nums)):
 
 		#Compare current element in position i with all others in array 
